@@ -52,7 +52,7 @@ li{
 	transform: translate(10%,20%);
 }
 
-#logo, h1, #topbanner>h2{
+#logo, #user, h1, #topbanner>h2{
 	position: absolute;
 }
 
@@ -77,6 +77,12 @@ li{
 #NavigationMenu{
 	display: flex;
 	justify-content: space-evenly;
+}
+
+#user{
+	width: 3%;
+	height: 5.5%;
+	transform: translate(3050%,20%);
 }
 
 
